@@ -45,3 +45,6 @@ The program is structured to ensure efficient memory usage. The nodes created dy
 
 Exit Gracefully:
 When the user opts to exit the program, a warm thank-you message is displayed, leaving users with a positive impression. This simple touch enhances the overall user experience, promoting satisfaction.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/09204896-5941-4394-98bf-17b1962aba6f)
